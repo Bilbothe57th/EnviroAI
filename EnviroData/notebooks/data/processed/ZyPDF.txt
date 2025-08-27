@@ -1,0 +1,187 @@
+Questions
+and
+Answers
+Office of Transportation and Air Quality
+EPA-420-F-23-014
+June 2023
+Tailpipe Greenhouse Gas Emissions
+from aTypical Passenger Vehicle
+The U.S. Environmental Protection Agency (EPA) developed this fact
+sheet to answer common questions about greenhouse gas emissions
+from passenger vehicles. This fact sheet provides emission rates and
+calculations consistent with EPA’s regulatory work.
+How much tailpipe carbon dioxide (CO2) is created from
+burning one gallon of fuel?
+The amount of CO2 created from burning one gallon of fuel depends on the amount of
+carbon in the fuel. Typically, more than 99% of the carbon in a fuel is emitted as CO2
+when the fuel is burned. Very small amounts are emitted as hydrocarbons and carbon
+monoxide, which are converted to CO2 relatively quickly in the atmosphere. Carbon
+content varies by fuel, and some variation within each type of fuel is normal. EPA and
+other agencies use the following average carbon content values to estimate CO2 emissions:
+CO2 Emissions from a gallon of gasoline: 8,887 grams CO2 /gallon1
+CO2 Emissions from a gallon of diesel: 10,180 grams CO2 /gallon2
+Diesel creates about 15% more CO2 per gallon. However, many vehicles that use
+diesel fuel achieve higher fuel economy than similar vehicles that use gasoline, which
+generally offsets the higher carbon content of diesel fuel.
+How can burning one gallon of gasoline produce 8,887 grams
+(approximately 20 pounds) of tailpipe carbon, when one gallon of
+gasoline weighs only about six pounds?
+Most of the weight of the CO2 doesn’t come from the gasoline itself, but the oxygen
+in the air. When gasoline burns, the carbon and hydrogen separate. The hydrogen
+combines with oxygen to form water (H2O), and carbon combines with oxygen to
+form carbon dioxide (CO2). Visit fueleconomy.gov for more details, including
+the calculations.
+1 This gasoline factor is from a regulation establishing GHG standards for model year 2017-2025 vehicles
+(77 FR 62773, October 15, 2012).
+2 This diesel factor is from the calculations that vehicle manufacturers use to measure fuel economy
+(40 C.F.R 600.113).
+Questions
+and
+Answers
+2
+How much tailpipe carbon dioxide (CO2) is emitted from driving
+one mile?
+The average passenger vehicle emits about 400 grams of CO2 per mile. The average fuel economy
+for all vehicles on the road today is 22.2 miles per gallon.3 The majority of vehicles run on gasoline,
+and every gallon of gasoline creates about 8,887 grams of CO2 when burned. Therefore, the
+average vehicle when driving one mile has tailpipe CO2 emissions of about:
+Electric vehicles (EVs) have zero tailpipe emissions.
+What is the average annual carbon dioxide (CO2) emissions of a
+typical passenger vehicle?
+A typical passenger vehicle emits about 4.6 metric tons of CO2 per year. This number can vary
+based on a vehicle’s fuel, fuel economy, and the number of miles driven per year. The average
+vehicle on the road today has a fuel economy of about 22.2 miles per gallon (MPG) and drives
+around 11,500 miles per year.4 Every gallon of gasoline burned creates about 8,887 grams of CO2,
+and there are one million grams per metric ton. Therefore, the average gasoline vehicle over a year
+of driving has tailpipe CO2 emissions of about5:
+EPA uses this to compare CO2 emissions from other sources to emissions from passenger vehicles.
+For example, an energy efficiency program that reduces greenhouse gas emissions by 4,600 metric
+tons of CO2 per year has the same impact as removing 1,000 vehicles from the road.
+Are there other sources of greenhouse gas (GHG) emissions from
+a vehicle?
+In addition to CO2, automobiles using gasoline produce methane (CH4) and nitrous oxide (N2O)
+from the tailpipe and all vehicles can emit hydrofluorocarbon (HFC) from leaking air conditioners.
+For gasoline vehicles, the emissions of HFCs are small in comparison to CO2; however, the impact
+of these emissions can be important because they have a higher global warming potential (GWP)
+than CO2.
+3 Federal Highway Administration Highway Statistics 2020, data for calendar year 2019. Data for 2020 was not used
+due to the impacts of the COVID-19 outbreak. The average passenger vehicle fuel economy is expected to increase
+over time because of greenhouse gas and fuel economy standards developed in coordination between EPA, DOT,
+and California.
+4 Federal Highway Administration Highway Statistics 2020.
+5 This calculation provides a simple way to determine the average annual CO2 emissions from a passenger vehicle.
+Anyone that needs a more detailed approach should use the EPA’s Motor Vehicle Emission Simulator (MOVES)
+model. MOVES contains detailed data about the light duty fleet and driving patterns in the United States. Although
+simplified, the calculated annual CO2 emissions above are consistent with analyses performed by EPA using MOVES.
+CO2 emissions per mile = = = 400 grams
+CO2 per gallon
+MPG
+8,887
+22.2
+CO2 emissions per mile = × miles = × 11,500 = 4.6 metric tons
+CO2 per gallon
+MPG
+8,887
+22.2
+Questions
+and
+Answers
+3
+The GWP of a gas relates the impact of that gas relative to an equivalent amount of CO2. Using
+GWP, the impact of various GHGs can be directly compared using a common metric. This metric
+is expressed in units of carbon dioxide equivalent, written as CO2e. Multiplying the amount
+of a GHG times the GWP of that GHG results in the amount of GHG in terms of CO2e. For
+automotive-related gases, these GWPs are:
+Greenhouse Gas Abbreviation Global Warming Potential6
+Carbon Dioxide CO2 1
+Methane CH4 25
+Nitrous Oxide N2O 298
+Air Conditioning Refrigerant HFC-134a 1,430
+It is more difficult to estimate vehicle emissions of CH4, N2O, and HFCs than CO2. Emissions of
+CH4 and N2O are dependent on the design of the gasoline engine and emission control system,
+rather than fuel consumption per mile. The amount of HFC leakage from air conditioners is
+dependent on system design, amount of use, and maintenance. On average, CO2 emissions are
+95-99% of the total GHGs from a gasoline passenger vehicle, after accounting for the GWP of all
+GHGs. The remaining 1-5% is CH4, N2O, and HFC emissions. EVs also emit a small amount of
+GHGs due to air conditioner/HFC leakage.
+What are the tailpipe emissions from a plug-in hybrid electric vehicle
+(PHEV) or an electric vehicle (EV)? What about hydrogen fuel cell
+vehicles (FCEV)?
+Electric vehicles (EVs) have a battery instead of a gasoline tank, and an electric motor instead of
+an internal combustion engine. EVs do not emit any tailpipe emissions. A fuel cell electric vehicle
+(FCEV) operating on hydrogen will emit only water vapor. Calculating tailpipe emissions for
+PHEVs is more complicated because they use both gasoline and electricity as fuel sources. When
+operating on electricity only, a PHEV does not generate any tailpipe emissions. When a PHEV
+is operating on gasoline only, it creates tailpipe emissions based on its gasoline fuel economy.
+Tailpipe emissions for a PHEV operating on both electricity and gasoline cannot be calculated
+without detailed information about how the specific PHEV operates. The overall tailpipe emissions
+for a PHEV can vary significantly based on its battery capacity, how it is driven, and how often it is
+charged. For more information, see the My Plug-In Hybrid calculator.
+6 These 100-year time horizon GWP values are from the 2007 Intergovernmental Panel on Climate Change (IPCC)
+Fourth Assessment Report. The IPCC released updated values in the Fifth Assessment Report (2014), however
+international reporting guidelines still use the values shown here.
+Questions
+and
+Answers
+4
+Are there any greenhouse gas (GHG) emissions associated with the
+use of my vehicle other than what comes out of the tailpipe?
+Driving gasoline vehicles results in tailpipe GHG emissions. Producing and distributing the gasoline
+used to power your vehicle also creates GHGs. For example, the production of gasoline requires
+extracting oil from the ground, transporting it to a refinery, refining the oil into gasoline, and
+transporting the gasoline to service stations. Each of these steps can produce additional GHGs.
+Electric vehicles (EVs) have no tailpipe emissions; however, emissions are created during both the
+production and distribution of the electricity used to fuel the vehicle. Visit the Beyond Tailpipe
+Emissions calculator to estimate GHG emissions for an EV in your region of the country.
+I thought my gasoline was blended with ethanol. Does that change
+my tailpipe carbon dioxide (CO2) emissions?
+Most of the gasoline sold in the U.S. is a mixture of gasoline and up to 10% ethanol (often referred
+to as E10). The exact formulation of the gasoline in your vehicle will vary depending on season,
+region in the U.S., and other factors. While your fuel economy when using an ethanol blend in
+your vehicle will be slightly lower than when using gasoline without ethanol, the CO2 tailpipe
+emissions per mile will be similar. This is because ethanol has less carbon per gallon than gasoline.
+How does the EPA measure carbon dioxide (CO2) emissions
+from vehicles?
+EPA measures vehicle fuel economy and CO2 emissions using a set of standardized laboratory tests.
+These tests were designed by EPA to mimic typical driving patterns. Both EPA and the Department
+of Transportation use these values to ensure that manufacturers meet federal greenhouse gas and
+corporate average fuel economy (CAFE) standards.
+For every new vehicle, the test results are used to determine real world fuel economy and CO2
+emissions. These adjusted results are used on the Fuel Economy and Environment Labels and on
+Fueleconomy.gov.
+Visit Testing at the National Vehicle and Fuel Emissions Laboratory and Frequent Questions on
+Fuel Economy Testing and Labeling for more information.
+How can I find and compare carbon dioxide (CO2) emission rates for
+specific vehicle models?
+Visit Fueleconomy.gov and click on “Find a Car.” Select your vehicle of interest. From the vehicle
+search results page, click on the “Energy and Environment” tab. A vehicle’s GHG emissions rate
+(g/mile) and GHG rating (1-10 scale) can be found on that search results page.
+When shopping at a dealership, check out tailpipe carbon dioxide (CO2) emission rates on vehicle
+Fuel Economy and Environment Labels. The labels also feature a 1-to 10 Fuel Economy and GHG
+rating to enable easy comparison shopping.
+Questions
+and
+Answers
+5
+Where can I find information on the emissions of the transportation
+sector as a whole?
+Visit EPA’s Fast Facts on Transportation Greenhouse Gas Emissions and Carbon Pollution from
+Transportation.
+Annually EPA also publishes industry-wide data in the report, “Light-Duty Automotive
+Technology, Carbon Dioxide Emissions, and Fuel Economy Trends.” This report analyzes trends in
+fuel economy and CO2 emissions for new light duty vehicles from 1975 to the present.
+Other useful sources include:
+Beyond Tailpipe Emissions Calculator
+Fueleconomy.gov
+Greenhouse Gas Equivalencies Calculator
+Green Vehicle Guide
+Household Carbon Footprint Calculator
+Inventory of U.S. Greenhouse Gas Emissions and Sinks
+For additional information on calculating emissions of greenhouse gases, please contact
+greenvehicles@epa.gov, or you can contact the OTAQ library for document information at:
+U.S. Environmental Protection Agency
+Office of Transportation and Air Quality
+2000 Traverwood Drive Ann Arbor, MI 48105
+734-214-4311 & 734-214-4434
+E-mail: Group_AAlibrary@epa.gov
+

@@ -1,0 +1,25 @@
+database:
+  chroma_db_path: "./chroma_db"
+  use_openai_embeddings: true  # Set to false to use sentence-transformers
+  embedding_model: "all-MiniLM-L6-v2"  # sentence-transformers model
+  
+data_sources:
+  carbon_factors: "./data/processed/carbon_emission_factors.xlsx"
+  activity_data: "./data/processed/activity_data.xlsx"
+  methodologies: "./data/processed/methodologies.xlsx"
+  benchmarks: "./data/processed/industry_benchmarks.xlsx"
+
+extraction:
+  pdf_extraction_method: "pdfplumber"  # or "PyPDF2"
+  excel_sheet_names:
+    - "Emission Factors"
+    - "Activity Data"
+    - "Methodologies"
+
+query:
+  default_n_results: 5
+  similarity_threshold: 0.8
+  
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"

@@ -1,0 +1,82 @@
+2025-08-12 15:07:16,106 - __main__ - INFO - Initialized DataExtractor with path: data\raw
+2025-08-12 15:26:10,729 - __main__ - INFO - Initialized DataExtractor with path: data\raw
+2025-08-12 15:26:14,660 - __main__ - ERROR - Error extracting Excel data from [WindowsPath('data/raw/excel/ghg-conversion-factors-2023-condensed-set-update.xlsx'), WindowsPath('data/raw/excel/ghg-emission-factors-hub-2025.xlsx')]: 'list' object has no attribute 'name'
+2025-08-12 15:26:14,665 - __main__ - ERROR - Error extracting Excel data from [WindowsPath('data/raw/excel/ghg-conversion-factors-2023-condensed-set-update.xlsx'), WindowsPath('data/raw/excel/ghg-emission-factors-hub-2025.xlsx')]: 'list' object has no attribute 'name'
+2025-08-12 15:26:38,750 - __main__ - ERROR - Error extracting Excel data from [WindowsPath('data/raw/excel/ghg-conversion-factors-2023-condensed-set-update.xlsx'), WindowsPath('data/raw/excel/ghg-emission-factors-hub-2025.xlsx')]: 'list' object has no attribute 'name'
+2025-08-12 15:26:38,753 - __main__ - ERROR - Error extracting Excel data from [WindowsPath('data/raw/excel/ghg-conversion-factors-2023-condensed-set-update.xlsx'), WindowsPath('data/raw/excel/ghg-emission-factors-hub-2025.xlsx')]: 'list' object has no attribute 'name'
+2025-08-12 15:26:45,684 - __main__ - ERROR - Error extracting Excel data from [WindowsPath('data/raw/excel/ghg-conversion-factors-2023-condensed-set-update.xlsx'), WindowsPath('data/raw/excel/ghg-emission-factors-hub-2025.xlsx')]: 'list' object has no attribute 'name'
+2025-08-12 15:26:45,686 - __main__ - ERROR - Error extracting Excel data from [WindowsPath('data/raw/excel/ghg-conversion-factors-2023-condensed-set-update.xlsx'), WindowsPath('data/raw/excel/ghg-emission-factors-hub-2025.xlsx')]: 'list' object has no attribute 'name'
+2025-08-12 21:59:52,806 - __main__ - INFO - Initialized DataExtractor with path: data\raw
+2025-08-12 22:00:04,301 - __main__ - ERROR - Error extracting Excel data from [WindowsPath('data/raw/excel/ghg-conversion-factors-2023-condensed-set-update.xlsx'), WindowsPath('data/raw/excel/ghg-emission-factors-hub-2025.xlsx')]: 'list' object has no attribute 'name'
+2025-08-12 22:00:04,305 - __main__ - ERROR - Error extracting Excel data from [WindowsPath('data/raw/excel/ghg-conversion-factors-2023-condensed-set-update.xlsx'), WindowsPath('data/raw/excel/ghg-emission-factors-hub-2025.xlsx')]: 'list' object has no attribute 'name'
+2025-08-12 22:00:20,631 - __main__ - ERROR - Error extracting Excel data from [WindowsPath('data/raw/excel/ghg-conversion-factors-2023-condensed-set-update.xlsx'), WindowsPath('data/raw/excel/ghg-emission-factors-hub-2025.xlsx')]: 'list' object has no attribute 'name'
+2025-08-12 22:00:20,632 - __main__ - ERROR - Error extracting Excel data from [WindowsPath('data/raw/excel/ghg-conversion-factors-2023-condensed-set-update.xlsx'), WindowsPath('data/raw/excel/ghg-emission-factors-hub-2025.xlsx')]: 'list' object has no attribute 'name'
+2025-08-12 22:14:03,712 - __main__ - INFO - Initialized DataExtractor with path: data\raw
+2025-08-12 22:14:15,415 - __main__ - INFO - Extracting Excel data from: ghg-conversion-factors-2023-condensed-set-update.xlsx
+2025-08-12 22:14:17,442 - __main__ - INFO - Sheet 'Introduction': 43 rows, 4 columns
+2025-08-12 22:14:17,873 - __main__ - INFO - Sheet 'What's new': 49 rows, 4 columns
+2025-08-12 22:14:18,280 - __main__ - INFO - Sheet 'Index': 103 rows, 4 columns
+2025-08-12 22:14:18,721 - __main__ - INFO - Sheet 'Fuels': 159 rows, 8 columns
+2025-08-12 22:14:19,179 - __main__ - INFO - Sheet 'Bioenergy': 83 rows, 6 columns
+2025-08-12 22:14:19,592 - __main__ - INFO - Sheet 'Refrigerant & other': 229 rows, 7 columns
+2025-08-12 22:14:20,116 - __main__ - INFO - Sheet 'Passenger vehicles': 118 rows, 35 columns
+2025-08-12 22:14:20,547 - __main__ - INFO - Sheet 'SECR kWh pass & delivery vehs': 137 rows, 11 columns
+2025-08-12 22:14:20,924 - __main__ - INFO - Sheet 'UK electricity': 31 rows, 8 columns
+2025-08-12 22:14:21,577 - __main__ - INFO - Sheet 'UK electricity for EVs': 86 rows, 11 columns
+2025-08-12 22:14:21,980 - __main__ - INFO - Sheet 'SECR kWh UK electricity for EVs': 77 rows, 6 columns
+2025-08-12 22:14:22,492 - __main__ - INFO - Sheet 'Transmission and distribution': 32 rows, 8 columns
+2025-08-12 22:14:23,897 - __main__ - INFO - Sheet 'UK electricity T&D for EVs': 88 rows, 11 columns
+2025-08-12 22:14:24,323 - __main__ - INFO - Sheet 'Water supply': 22 rows, 6 columns
+2025-08-12 22:14:24,859 - __main__ - INFO - Sheet 'Water treatment': 19 rows, 6 columns
+2025-08-12 22:14:25,294 - __main__ - INFO - Sheet 'Material use': 92 rows, 14 columns
+2025-08-12 22:14:25,795 - __main__ - INFO - Sheet 'Waste disposal': 97 rows, 14 columns
+2025-08-12 22:14:26,377 - __main__ - INFO - Sheet 'Business travel- air': 55 rows, 12 columns
+2025-08-12 22:14:26,849 - __main__ - INFO - Sheet 'Business travel- sea': 24 rows, 7 columns
+2025-08-12 22:14:27,470 - __main__ - INFO - Sheet 'Business travel- land': 102 rows, 35 columns
+2025-08-12 22:14:27,926 - __main__ - INFO - Sheet 'Freighting goods': 184 rows, 31 columns
+2025-08-12 22:14:28,415 - __main__ - INFO - Sheet 'Hotel stay': 90 rows, 7 columns
+2025-08-12 22:14:28,876 - __main__ - INFO - Sheet 'Homeworking': 30 rows, 6 columns
+2025-08-12 22:14:29,244 - __main__ - INFO - Sheet 'Conversions': 64 rows, 8 columns
+2025-08-12 22:14:29,683 - __main__ - INFO - Sheet 'Fuel properties': 62 rows, 11 columns
+2025-08-12 22:14:30,089 - __main__ - INFO - Sheet 'Haul definition': 219 rows, 3 columns
+2025-08-12 22:14:30,091 - __main__ - INFO - Extracting Excel data from: ghg-emission-factors-hub-2025.xlsx
+2025-08-12 22:14:30,627 - __main__ - INFO - Sheet 'Emission Factors Hub': 590 rows, 11 columns
+2025-08-14 10:33:50,284 - __main__ - INFO - Initialized DataExtractor with path: data\raw
+2025-08-14 10:33:52,387 - __main__ - INFO - Initialized DataExtractor with path: data\raw
+2025-08-14 10:34:03,119 - __main__ - INFO - Extracting Excel data from: ghg-conversion-factors-2023-condensed-set-update.xlsx
+2025-08-14 10:34:04,706 - __main__ - INFO - Sheet 'Introduction': 43 rows, 4 columns
+2025-08-14 10:34:05,002 - __main__ - INFO - Sheet 'What's new': 49 rows, 4 columns
+2025-08-14 10:34:05,318 - __main__ - INFO - Sheet 'Index': 103 rows, 4 columns
+2025-08-14 10:34:05,563 - __main__ - INFO - Sheet 'Fuels': 159 rows, 8 columns
+2025-08-14 10:34:05,844 - __main__ - INFO - Sheet 'Bioenergy': 83 rows, 6 columns
+2025-08-14 10:34:06,085 - __main__ - INFO - Sheet 'Refrigerant & other': 229 rows, 7 columns
+2025-08-14 10:34:06,425 - __main__ - INFO - Sheet 'Passenger vehicles': 118 rows, 35 columns
+2025-08-14 10:34:06,719 - __main__ - INFO - Sheet 'SECR kWh pass & delivery vehs': 137 rows, 11 columns
+2025-08-14 10:34:07,010 - __main__ - INFO - Sheet 'UK electricity': 31 rows, 8 columns
+2025-08-14 10:34:07,496 - __main__ - INFO - Sheet 'UK electricity for EVs': 86 rows, 11 columns
+2025-08-14 10:34:07,768 - __main__ - INFO - Sheet 'SECR kWh UK electricity for EVs': 77 rows, 6 columns
+2025-08-14 10:34:08,020 - __main__ - INFO - Sheet 'Transmission and distribution': 32 rows, 8 columns
+2025-08-14 10:34:09,063 - __main__ - INFO - Sheet 'UK electricity T&D for EVs': 88 rows, 11 columns
+2025-08-14 10:34:09,485 - __main__ - INFO - Sheet 'Water supply': 22 rows, 6 columns
+2025-08-14 10:34:09,971 - __main__ - INFO - Sheet 'Water treatment': 19 rows, 6 columns
+2025-08-14 10:34:10,296 - __main__ - INFO - Sheet 'Material use': 92 rows, 14 columns
+2025-08-14 10:34:10,685 - __main__ - INFO - Sheet 'Waste disposal': 97 rows, 14 columns
+2025-08-14 10:34:10,890 - __main__ - INFO - Sheet 'Business travel- air': 55 rows, 12 columns
+2025-08-14 10:34:11,087 - __main__ - INFO - Sheet 'Business travel- sea': 24 rows, 7 columns
+2025-08-14 10:34:11,401 - __main__ - INFO - Sheet 'Business travel- land': 102 rows, 35 columns
+2025-08-14 10:34:11,634 - __main__ - INFO - Sheet 'Freighting goods': 184 rows, 31 columns
+2025-08-14 10:34:11,889 - __main__ - INFO - Sheet 'Hotel stay': 90 rows, 7 columns
+2025-08-14 10:34:12,135 - __main__ - INFO - Sheet 'Homeworking': 30 rows, 6 columns
+2025-08-14 10:34:12,350 - __main__ - INFO - Sheet 'Conversions': 64 rows, 8 columns
+2025-08-14 10:34:12,619 - __main__ - INFO - Sheet 'Fuel properties': 62 rows, 11 columns
+2025-08-14 10:34:12,823 - __main__ - INFO - Sheet 'Haul definition': 219 rows, 3 columns
+2025-08-14 10:34:12,824 - __main__ - INFO - Extracting Excel data from: ghg-emission-factors-hub-2025.xlsx
+2025-08-14 10:34:13,142 - __main__ - INFO - Sheet 'Emission Factors Hub': 590 rows, 11 columns
+2025-08-21 11:27:46,382 - __main__ - INFO - Initialized DataExtractor with path: data\raw
+2025-08-21 11:28:31,871 - __main__ - INFO - Extracting PDF tables from: ZyPDF.pdf
+2025-08-21 11:28:36,801 - tabula.io - WARNING - Got stderr: Aug 21, 2025 11:28:34 AM org.apache.pdfbox.contentstream.PDFStreamEngine operatorException
+SEVERE: Cannot read JPEG2000 image: Java Advanced Imaging (JAI) Image I/O Tools are not installed
+
+2025-08-21 11:28:36,805 - __main__ - ERROR - Error extracting PDF tables from data\raw\pdf\ZyPDF.pdf: 'utf-8' codec can't decode byte 0x92 in position 750: invalid start byte
+2025-08-21 11:28:36,808 - __main__ - INFO - Using pdfplumber fallback for: ZyPDF.pdf
+2025-08-21 11:28:36,811 - __main__ - ERROR - Error with pdfplumber extraction from data\raw\pdf\ZyPDF.pdf: name 'pdfplumber' is not defined
